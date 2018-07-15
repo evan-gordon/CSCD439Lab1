@@ -1,6 +1,9 @@
 # CSCD439Lab1
 ## Evan Gordon
 
+##NOTE
+git is cancerous, long story short somb big files being commited tanked my repo locally. This repo is no longer being worked on. please see ml-notebooks
+
 ## Introduction
 
 The Following documents contain work for CSCD 439 Machine Learning.
